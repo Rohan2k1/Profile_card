@@ -1,2 +1,14 @@
-# Profile_card
-Profile Card Component This project is a responsive profile card created with HTML and CSS, designed to showcase user information in a visually appealing layout. The profile card includes details such as name, title, profile picture, social media links, and a short bio, making it ideal for personal websites or portfolio pages.
+# Profile Card
+
+A simple and responsive profile card created with HTML and CSS. This card displays user information like **name, profile picture, bio, and social links**. Perfect for personal sites or portfolios.
+
+## Features
+- Responsive design for all screen sizes
+- Clean, minimalist layout
+- Easy to customize
+
+## Usage
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/profile-card.git
+Author:Rohan Kumar Patel
